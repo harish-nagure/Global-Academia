@@ -10,13 +10,13 @@ Technologies :-
 MERN stack
 
 
-MongoDB - Database
+	MongoDB - Database
 
-Express - Backend Framework
+	Express - Backend Framework
 
-React - Frontend Framework
+	React - Frontend Framework
 
-NodeJS - JS Runtime for the backend
+	NodeJS - JS Runtime for the backend
 
 
 How to get started 

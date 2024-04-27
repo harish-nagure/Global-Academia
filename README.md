@@ -9,7 +9,7 @@ Express - Backend Framework
 React - Frontend Framework
 NodeJS - JS Runtime for the backend
 
-How to get started
+How to get started 
 Prerequistes
 1.NodeJs
 

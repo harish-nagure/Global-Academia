@@ -1,7 +1,9 @@
-Project Description
+GLOBAL ACADEMIA
+
+Project Description :- 
 The Global Academia is developed using MERN, which is built to find the Global College with all types of information about college. 
 
-Technologies
+Technologies :-
 MERN stack
 
 MongoDB - Database
